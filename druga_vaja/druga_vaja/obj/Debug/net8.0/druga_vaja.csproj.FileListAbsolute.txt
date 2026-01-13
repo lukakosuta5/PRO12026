@@ -1,0 +1,15 @@
+C:\PRO12026\druga_vaja\druga_vaja\bin\Debug\net8.0\druga_vaja.exe
+C:\PRO12026\druga_vaja\druga_vaja\bin\Debug\net8.0\druga_vaja.deps.json
+C:\PRO12026\druga_vaja\druga_vaja\bin\Debug\net8.0\druga_vaja.runtimeconfig.json
+C:\PRO12026\druga_vaja\druga_vaja\bin\Debug\net8.0\druga_vaja.dll
+C:\PRO12026\druga_vaja\druga_vaja\bin\Debug\net8.0\druga_vaja.pdb
+C:\PRO12026\druga_vaja\druga_vaja\obj\Debug\net8.0\druga_vaja.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO12026\druga_vaja\druga_vaja\obj\Debug\net8.0\druga_vaja.AssemblyInfoInputs.cache
+C:\PRO12026\druga_vaja\druga_vaja\obj\Debug\net8.0\druga_vaja.AssemblyInfo.cs
+C:\PRO12026\druga_vaja\druga_vaja\obj\Debug\net8.0\druga_vaja.csproj.CoreCompileInputs.cache
+C:\PRO12026\druga_vaja\druga_vaja\obj\Debug\net8.0\druga_vaja.sourcelink.json
+C:\PRO12026\druga_vaja\druga_vaja\obj\Debug\net8.0\druga_vaja.dll
+C:\PRO12026\druga_vaja\druga_vaja\obj\Debug\net8.0\refint\druga_vaja.dll
+C:\PRO12026\druga_vaja\druga_vaja\obj\Debug\net8.0\druga_vaja.pdb
+C:\PRO12026\druga_vaja\druga_vaja\obj\Debug\net8.0\druga_vaja.genruntimeconfig.cache
+C:\PRO12026\druga_vaja\druga_vaja\obj\Debug\net8.0\ref\druga_vaja.dll
