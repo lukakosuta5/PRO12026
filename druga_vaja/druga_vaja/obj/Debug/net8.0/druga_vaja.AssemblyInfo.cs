@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("druga_vaja")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9768de3e2a54e8c6e22d6f8b7903cf511d873d43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33b1a59caa09029f04a57cc2424c2e52fa0c8a32")]
 [assembly: System.Reflection.AssemblyProductAttribute("druga_vaja")]
 [assembly: System.Reflection.AssemblyTitleAttribute("druga_vaja")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

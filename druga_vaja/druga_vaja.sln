@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "druga_vaja", "druga_vaja\druga_vaja.csproj", "{523F5F56-B40B-453F-89FC-702FCADC9679}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_vaja", "..\3_vaja\3_vaja.csproj", "{0AC3FCEE-BBA3-4046-9356-0F3186D6E373}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{523F5F56-B40B-453F-89FC-702FCADC9679}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{523F5F56-B40B-453F-89FC-702FCADC9679}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{523F5F56-B40B-453F-89FC-702FCADC9679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AC3FCEE-BBA3-4046-9356-0F3186D6E373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC3FCEE-BBA3-4046-9356-0F3186D6E373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC3FCEE-BBA3-4046-9356-0F3186D6E373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC3FCEE-BBA3-4046-9356-0F3186D6E373}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
