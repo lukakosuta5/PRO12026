@@ -1,0 +1,15 @@
+C:\PRO12026\vajaa3\bin\Debug\net8.0\vajaa3.exe
+C:\PRO12026\vajaa3\bin\Debug\net8.0\vajaa3.deps.json
+C:\PRO12026\vajaa3\bin\Debug\net8.0\vajaa3.runtimeconfig.json
+C:\PRO12026\vajaa3\bin\Debug\net8.0\vajaa3.dll
+C:\PRO12026\vajaa3\bin\Debug\net8.0\vajaa3.pdb
+C:\PRO12026\vajaa3\obj\Debug\net8.0\vajaa3.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRO12026\vajaa3\obj\Debug\net8.0\vajaa3.AssemblyInfoInputs.cache
+C:\PRO12026\vajaa3\obj\Debug\net8.0\vajaa3.AssemblyInfo.cs
+C:\PRO12026\vajaa3\obj\Debug\net8.0\vajaa3.csproj.CoreCompileInputs.cache
+C:\PRO12026\vajaa3\obj\Debug\net8.0\vajaa3.sourcelink.json
+C:\PRO12026\vajaa3\obj\Debug\net8.0\vajaa3.dll
+C:\PRO12026\vajaa3\obj\Debug\net8.0\refint\vajaa3.dll
+C:\PRO12026\vajaa3\obj\Debug\net8.0\vajaa3.pdb
+C:\PRO12026\vajaa3\obj\Debug\net8.0\vajaa3.genruntimeconfig.cache
+C:\PRO12026\vajaa3\obj\Debug\net8.0\ref\vajaa3.dll
